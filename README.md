@@ -1,21 +1,21 @@
-🔧 Sistema de Información — Centro Técnico Electromecánico
+# 🔧 Sistema de Información — Centro Técnico Electromecánico
 
 Plataforma digital para gestionar ventas, inventario, clientes y maquinaria de un centro técnico especializado en herramientas eléctricas, ubicado en Suba, Bogotá.
 
 Desarrollado como proyecto académico en el **SENA — Centro de Diseño y Metrología**, Ficha 3177445 · Análisis y Desarrollo de Software · 2025.
 
 
-🚨 Problema que resuelve
+# 🚨 Problema que resuelve
 
 El Centro Técnico Electromecánico realizaba todos sus procesos de forma manual: ventas, control de inventario, registro de reparaciones y seguimiento de clientes se anotaban en cuadernos físicos. Esto generaba pérdida de información, errores en los registros, descontrol del stock y dificultad para conocer las ganancias reales del negocio. Además, no existía ninguna herramienta que avisara cuando un producto estaba por agotarse, ni un historial confiable de las máquinas reparadas. La falta de digitalización limitaba el crecimiento, la competitividad y la calidad del servicio ofrecido.
 
 
- 🎯 Objetivo General
+# 🎯 Objetivo General
 
 Desarrollar una plataforma digital que centralice y automatice los procesos del Centro Técnico Electromecánico, permitiendo gestionar el inventario, las ventas, los clientes y la maquinaria de forma eficiente, segura y escalable para otros negocios del sector en la localidad de Suba.
 
 
-✅ Objetivos Específicos
+# ✅ Objetivos Específicos
 
 - Digitalizar el registro de ventas, entradas y salidas de productos, eliminando el uso de cuadernos manuales.
 - Implementar alertas automáticas para el control de stock mínimo de productos.
@@ -25,22 +25,20 @@ Desarrollar una plataforma digital que centralice y automatice los procesos del 
 - Proveer un catálogo digital de productos accesible para los clientes desde el celular.
 
 
-🧩 Módulos
-
- #  Módulo               Funcionalidades principales 
- 1  Usuarios             Registro, roles, inicio de sesión, historial de actividad 
- 2  Productos            CRUD de productos, catálogo, búsqueda, alertas de stock 
- 3  Inventario           Entradas/salidas, novedades, disponibilidad en tiempo real 
- 4  Cliente              Cotizaciones, envío por WhatsApp, productos favoritos 
- 5  Ventas y Reportes    Registro de ventas, reportes semanales/mensuales, ganancias 
- 6  Máquinas             Registro de máquinas, historial de mantenimiento 
- 7  Sistema              Conectividad e infraestructura base 
+#  Módulo               Funcionalidades principales 
+-   Usuarios: Registro, roles, inicio de sesión, historial de actividad
+-   Productos: CRUD de productos, catálogo, búsqueda, alertas de stock
+-   Inventario: Entradas/salidas, novedades, disponibilidad en tiempo real
+-   Cliente: Cotizaciones, envío por WhatsApp, productos favoritos
+-   Ventas y Reportes: Registro de ventas, reportes semanales/mensuales, ganancias
+-   Máquinas: Registro de máquinas, historial de mantenimiento
+-   Sistema: Conectividad e infraestructura base 
 
 
-👥 Equipo
+# 👥 Equipo
 
  Nombre                           Rol 
- Leonardo Favio Garavito          Líder 
- Yeny Paola Silva Camargo         Módulo Usuarios 
- Laura Julieth Rojas              Módulo Productos 
- Laura Sofía Barrera              Módulos Inventario y Cliente 
+- Leonardo Favio Garavito          Líder
+- Yeny Paola Silva Camargo         Módulo Usuarios
+- Laura Julieth Rojas              Módulo Productos
+- Laura Sofía Barrera              Módulos Inventario y Cliente 
